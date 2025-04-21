@@ -45,6 +45,10 @@ header p {
   margin-top: 10px;
 }
 
+header a {
+  margin-top: 10 px;
+}
+
 /* Action buttons (moved closer to top) */
 .action-buttons {
   display: flex;
